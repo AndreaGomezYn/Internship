@@ -1,0 +1,54 @@
+Region;StateName;RegionClean
+Albany;New York;Northeast
+Atlanta;Georgia;Southeast
+Boise;Idaho;West
+Boston;Massachusetts;Northeast
+BuffaloRochester;New York;Northeast
+California;California;West
+Charlotte;North Carolina;Southeast
+Chicago;Illinois;Midwest
+CincinnatiDayton;Ohio;Midwest
+Columbus;Ohio;Midwest
+DallasFtWorth;Texas;Southwest
+Denver;Colorado;West
+Detroit;Michigan;Midwest
+GrandRapids;Michigan;Midwest
+GreatLakes;Michigan;Midwest
+HarrisburgScranton;Pennsylvania;Northeast
+HartfordSpringfield;Connecticut;Northeast
+Houston;Texas;Southwest
+Indianapolis;Indiana;Midwest
+Jacksonville;Alabama;Southeast
+LasVegas;Nevada;West
+LosAngeles;California;West
+Louisville;Kentucky;Southeast
+MiamiFtLauderdale;Florida;Southeast
+Nashville;Tennessee;Southeast
+NewYork;New York;Northeast
+Orlando;Florida;Southeast
+Philadelphia;Pennsylvania;Northeast
+PhoenixTucson;Arizona;Southwest
+Pittsburgh;Kansas;Midwest
+Portland;Oregon;West
+RaleighGreensboro;North Carolina;Southeast
+RichmondNorfolk;Virginia;Southeast
+SouthCarolina;South Carolina;Southeast
+Spokane;Washington;West
+StLouis;Missouri;Midwest
+Syracuse;New York;Northeast
+Roanoke;Virginia;Southeast
+Sacramento;California;West
+SanDiego;California;West
+SanFrancisco;California;West
+Seattle;Washington;West
+Tampa;Florida;Southeast
+WestTexNewMexico;New Mexico;Southwest
+BaltimoreWashington;Washington;West
+NewOrleansMobile;Louisiana;Southeast
+Midsouth;Southeast;Southeast
+Northeast;Northeast;Northeast
+NorthernNewEngland;Northeast;Northeast
+Plains;West;West
+SouthCentral;SouthCentral;SouthCentral
+Southeast;'Southeast';Southeast
+West;'West';West
